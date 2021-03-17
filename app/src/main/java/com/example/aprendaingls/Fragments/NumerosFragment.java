@@ -26,7 +26,6 @@ public class NumerosFragment extends Fragment implements View.OnClickListener {
     private MediaPlayer mediaPlayer;
 
     public NumerosFragment() {
-        // Required empty public constructor
     }
 
     @Override

@@ -30,7 +30,6 @@ public class BichosFragment extends Fragment implements View.OnClickListener{
     private MediaPlayer mediaPlayer;
 
     public BichosFragment() {
-        // Required empty public constructor
     }
 
     @Override

@@ -12,8 +12,9 @@ import com.example.aprendaingls.R;
 
 public class VogaisFragment extends Fragment {
 
+    //TODO implement this
+
     public VogaisFragment() {
-        // Required empty public constructor
     }
 
     @Override

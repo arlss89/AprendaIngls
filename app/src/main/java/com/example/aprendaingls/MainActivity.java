@@ -1,12 +1,9 @@
 package com.example.aprendaingls;
 
+import android.os.Bundle;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
-
-import android.media.AudioManager;
-import android.media.MediaPlayer;
-import android.os.Bundle;
-import android.widget.ImageView;
 
 import com.example.aprendaingls.Fragments.BichosFragment;
 import com.example.aprendaingls.Fragments.NumerosFragment;
